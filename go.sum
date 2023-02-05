@@ -55,8 +55,8 @@ github.com/shurcooL/github_flavored_markdown v0.0.0-20210228213109-c3a9aa474629 
 github.com/shurcooL/github_flavored_markdown v0.0.0-20210228213109-c3a9aa474629/go.mod h1:2dOwnU2uBioM+SGy2aZoq1f/Sd1l9OkAeAUvjSyvgU0=
 github.com/shurcooL/go v0.0.0-20200502201357-93f07166e636 h1:aSISeOcal5irEhJd1M+IrApc0PdcN7e7Aj4yuEnOrfQ=
 github.com/shurcooL/go v0.0.0-20200502201357-93f07166e636/go.mod h1:TDJrrUr11Vxrven61rcy3hJMUqaf/CLWYhHNPmT14Lk=
-github.com/shurcooL/go-goon v0.0.0-20170922171312-37c2f522c041 h1:llrF3Fs4018ePo4+G/HV/uQUqEI1HMDjCeOf2V6puPc=
-github.com/shurcooL/go-goon v0.0.0-20170922171312-37c2f522c041/go.mod h1:N5mDOmsrJOB+vfqUK+7DmDyjhSLIIBnXo9lvZJj3MWQ=
+github.com/shurcooL/go-goon v1.0.0 h1:BCQPvxGkHHJ4WpBO4m/9FXbITVIsvAm/T66cCcCGI7E=
+github.com/shurcooL/go-goon v1.0.0/go.mod h1:2wTHMsGo7qnpmqA8ADYZtP4I1DD94JpXGQ3Dxq2YQ5w=
 github.com/shurcooL/highlight_diff v0.0.0-20181222201841-111da2e7d480 h1:KaKXZldeYH73dpQL+Nr38j1r5BgpAYQjYvENOUpIZDQ=
 github.com/shurcooL/highlight_diff v0.0.0-20181222201841-111da2e7d480/go.mod h1:ZpfEhSmds4ytuByIcDnOLkTHGUI6KNqRNPDLHDk+mUU=
 github.com/shurcooL/highlight_go v0.0.0-20191220051317-782971ddf21b h1:rBIwpb5ggtqf0uZZY5BPs1sL7njUMM7I8qD2jiou70E=
