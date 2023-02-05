@@ -4,9 +4,9 @@ go 1.13
 
 require (
 	github.com/BurntSushi/toml v1.2.1
-	github.com/fatih/color v1.12.0
-	github.com/mattn/go-colorable v0.1.8
-	github.com/mattn/go-isatty v0.0.13
+	github.com/fatih/color v1.14.1
+	github.com/mattn/go-colorable v0.1.13
+	github.com/mattn/go-isatty v0.0.17
 	github.com/mattn/go-runewidth v0.0.13
 	github.com/mattn/go-tty v0.0.3
 	github.com/microcosm-cc/bluemonday v1.0.15 // indirect
@@ -24,5 +24,4 @@ require (
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
 	github.com/urfave/cli/v2 v2.24.3
 	golang.org/x/net v0.0.0-20210716203947-853a461950ff // indirect
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 )
