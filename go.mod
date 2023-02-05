@@ -10,7 +10,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.14
 	github.com/mattn/go-tty v0.0.4
 	github.com/microcosm-cc/bluemonday v1.0.15 // indirect
-	github.com/pkg/browser v0.0.0-20210706143420-7d21f8c997e2
+	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/russross/blackfriday v1.6.0 // indirect
 	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/shurcooL/github_flavored_markdown v0.0.0-20210228213109-c3a9aa474629
